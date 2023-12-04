@@ -9,7 +9,7 @@ This Portfolio contains various Python project done by me.
     * Used KNN nad XGB model to predict the data and I choose XGB model because it performed better.
     * Used precision score to evaluate the metrics of the model.
 
-2. **[CO2 Emission project](https://github.com/Folu22/Data-Visualization/blob/main/CO2%20emission%20-%20machine%20learning%20completed%20.ipynb)**
+2. **[House Price Prediction project](https://github.com/Folu22/Foluke-Portfolio/blob/main/house%20price%20prediction.ipynb)**
 
 In this project we predicted the amount of co2 emission that is to be emitted from a car engine given the explanatory variables.
 
