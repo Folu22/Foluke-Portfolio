@@ -20,13 +20,11 @@ This Portfolio contains various Python project done by me.
    * Used Root Mean Squared Error to evalute the metrics of the models.
   
 3. **[Dehli Weather Prediction project](https://github.com/Folu22/Foluke-Portfolio/blob/main/house%20price%20prediction.ipynb)**
-   * Predicted house prices at Melbourne state capital which is the most populous city of the Australian state of Victoria.
-   * Explained each features in the dataset.
+   * Forecasted Dehli weather condition.
    * Performed data cleaning and validation.
-   * Perform Explorative Data Analysis to have a better understanding of the data\
-   * Performed feature engineering
-   * Used linear regression, decision tree and random forese=t model to predict the dataset and I choose random forest model because it performed           better than others.
-   * Used Root Mean Squared Error to evalute the metrics of the models.
+   * Perform Explorative Data Analysis to have a better understanding of the data.
+   * Used linear regression and time series predicition model which is ARIMA to forecast the model.
+   
 
 * ### Data-Visualization
 **[Data Visualization of a Sales data.](https://github.com/Folu22/Data-Visualization/blob/main/sales-data-viz.ipynb)**
