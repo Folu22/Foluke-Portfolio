@@ -4,9 +4,10 @@ This Portfolio contains various Python project done by me.
 ## Contents
 * ### Python Project
 1. **[Tasty Bytes Recipe Project](https://github.com/Folu22/Foluke-Portfolio/blob/main/Datacamp%20Professional%20Recipe%20Prediction.ipynb)**
-
-In this project, we use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
-Specifically, we build a linear regression model that more accurately predicts the unit sales for thousands of items sold at different Favorita stores.
+    * Predicted the receipe that will generate high traffic into tasty bytes website by 80%.
+    * Perform Explorative Data Analysis to have a better understanding of the data.
+    * Used KNN nad XGB model to predict the data and I choose XGB model because it performed better.
+    * Used precision score to evaluate the metrics of the model.
 
 2. **[CO2 Emission project](https://github.com/Folu22/Data-Visualization/blob/main/CO2%20emission%20-%20machine%20learning%20completed%20.ipynb)**
 
