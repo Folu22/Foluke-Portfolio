@@ -2,7 +2,7 @@
 This Portfolio contains various Python project done by me.
 
 ## Contents
-* ### Tasty Bytes Recipe Project
+* ### Python Project
 1. **[Tasty Bytes Recipe Project](https://github.com/Folu22/Foluke-Portfolio/blob/main/Datacamp%20Professional%20Recipe%20Prediction.ipynb)**
 
 In this project, we use time-series forecasting to forecast store sales on data from Corporación Favorita, a large Ecuadorian-based grocery retailer.
